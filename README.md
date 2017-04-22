@@ -1,6 +1,9 @@
 Readme
 ---------------------------------------------------------
 
+Python: 3.6
+Django Version: 1.10
+
 This is a basic django CRUD web app for demo purpose.
 Main URL: your machine host with designated port number. Usually localhost:8000
 
