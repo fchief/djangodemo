@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>Delete {{ form.title }}</h1>
+	<form method="POST" novalidate>{% csrf_token %}
+	Are you sure you want to delete this post?
+		<input type="submit" value="Yes">
+	</form>
+	<a href="{% url 'home' %}">Cancel</a>
+</body>
+</html>

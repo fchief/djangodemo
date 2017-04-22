@@ -1,0 +1,1 @@
+exec ./manage.py runserver localhost:3000

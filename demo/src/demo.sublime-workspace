@@ -1,0 +1,1137 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post_obj"
+			],
+			[
+				"h",
+				"HttpResponseRedirect"
+			],
+			[
+				"add",
+				"addTabs"
+			],
+			[
+				"route",
+				"routeMap"
+			],
+			[
+				"ajax",
+				"ajaxDel"
+			],
+			[
+				"Pro",
+				"ProfilePage"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"up",
+				"uploadImage"
+			],
+			[
+				"a",
+				"ajaxUp"
+			],
+			[
+				"be",
+				"beforeSend"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"cont",
+				"contentType"
+			],
+			[
+				"frame",
+				"objFrame"
+			],
+			[
+				"obj",
+				"objFrame"
+			],
+			[
+				"url",
+				"urlName"
+			],
+			[
+				"img",
+				"imgObjs"
+			],
+			[
+				"sess",
+				"sess_var"
+			],
+			[
+				"dlete",
+				"deleteImage"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ses",
+				"sess_var"
+			],
+			[
+				"req",
+				"req_file_del"
+			],
+			[
+				"i",
+				"image-container"
+			],
+			[
+				"ini",
+				"initChildren"
+			],
+			[
+				"init",
+				"initEvents"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"_",
+				"_click"
+			],
+			[
+				"delete",
+				"deleteImage"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"bu",
+				"buttonDelete"
+			],
+			[
+				"inp",
+				"inputUpload"
+			],
+			[
+				"get",
+				"getAddedButton"
+			],
+			[
+				"image-frame",
+				"image-frame-holder"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"image",
+				"imageFrameChild"
+			],
+			[
+				"nu",
+				"numOfElements"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"delet",
+				"deleteImage"
+			],
+			[
+				"tri",
+				"trigger"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fra",
+				"frameObj"
+			],
+			[
+				"ho",
+				"holder"
+			],
+			[
+				"main",
+				"mainObj"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"Pos",
+				"PostImageModel"
+			],
+			[
+				"te",
+				"temp_list"
+			],
+			[
+				"se",
+				"sess_var"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"upl",
+				"uploadImg"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"cu",
+				"cur_img_set"
+			],
+			[
+				"ex",
+				"exclude"
+			],
+			[
+				"po",
+				"post_id"
+			],
+			[
+				"Post",
+				"PostImageModel"
+			],
+			[
+				"templ",
+				"temp_list"
+			],
+			[
+				"post_",
+				"post_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"btn-u",
+				"btn-upload-img"
+			],
+			[
+				"ima",
+				"image_qs"
+			],
+			[
+				"ac",
+				"action_type"
+			],
+			[
+				"remo",
+				"removeImg"
+			],
+			[
+				"im",
+				"imgFrameBtn"
+			],
+			[
+				"u",
+				"upload"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"csrf",
+				"csrftoken"
+			],
+			[
+				"csr",
+				"csrftoken"
+			],
+			[
+				"cs",
+				"csrftoken"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"au",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"Image",
+				"ImageModel"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"fo",
+				"folder_name"
+			],
+			[
+				"new",
+				"newdoc"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"U",
+				"UploadImageForm"
+			],
+			[
+				"tag",
+				"tag_word"
+			],
+			[
+				"tag_",
+				"tag_exist"
+			],
+			[
+				"post_tag",
+				"post_tag_exist"
+			],
+			[
+				"pos",
+				"post_obj"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"sett",
+				"setting_type_code"
+			],
+			[
+				"Email",
+				"EmailField"
+			],
+			[
+				"upd",
+				"update_session_auth_hash"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"Prof",
+				"ProfileAdmin"
+			],
+			[
+				"Mo",
+				"ModelAdmin"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"Ht",
+				"Http404"
+			],
+			[
+				"set",
+				"setting_id"
+			],
+			[
+				"not",
+				"notification_qs"
+			],
+			[
+				"no",
+				"notification_qs"
+			],
+			[
+				"setting",
+				"setting_id"
+			],
+			[
+				"to",
+				"total_qs"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"Man",
+				"ManyToManyField"
+			],
+			[
+				"f",
+				"formset"
+			],
+			[
+				"Chec",
+				"CheckboxSelectMultiple"
+			],
+			[
+				"User",
+				"UserPromotionForm"
+			],
+			[
+				"C",
+				"COUNTRY_CODE"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"email",
+				"email__iexact"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"emai",
+				"email_entered"
+			],
+			[
+				"em",
+				"email_entered"
+			],
+			[
+				"next",
+				"next_url"
+			],
+			[
+				"ne",
+				"next_url"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"rfe",
+				"referrer_query"
+			],
+			[
+				"coni",
+				"continue_url"
+			],
+			[
+				"refer",
+				"referrer_query"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"mobil",
+				"mobilecheck"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"hi",
+				"hideBool"
+			],
+			[
+				"le",
+				"length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "post/forms.py",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/views.py",
+			"settings":
+			{
+				"buffer_size": 1696,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/templates/delete.html",
+			"settings":
+			{
+				"buffer_size": 287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/templates/listing.html",
+			"settings":
+			{
+				"buffer_size": 460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post/templates/post.html",
+			"settings":
+			{
+				"buffer_size": 194,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kokleongfong/Documents/PythonDev/demo/src",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/demo",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post/templates"
+	],
+	"file_history":
+	[
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/demo/urls.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post/urls.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post/templates/post.html",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post/models.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/post/admin.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/demo/settings.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/account/models.py",
+		"/Users/kokleongfong/Documents/PythonDev/demo/src/runserver.sh",
+		"/Users/kokleongfong/Documents/FE Project/Start 2/main.css",
+		"/Users/kokleongfong/Documents/App/src/static/js/ui/push.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/frameworks/app-base.js",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/account_base.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/business_page.html",
+		"/Users/kokleongfong/Documents/App/src/static/js/app.js",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/base.html",
+		"/Users/kokleongfong/Documents/App/src/listing/views.py",
+		"/Users/kokleongfong/Documents/App/src/static/js/data.js",
+		"/Users/kokleongfong/Documents/App/src/listing/forms.py",
+		"/Users/kokleongfong/Documents/App/src/listing/models.py",
+		"/Users/kokleongfong/Documents/App/src/static/js/ui/base-element.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/classes/vehicle.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/classes/car.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/classes/drone.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/class/drone.js",
+		"/Users/kokleongfong/Documents/App/src/accounts/settings_models.py",
+		"/Users/kokleongfong/Documents/App/src/listing/urls.py",
+		"/Users/kokleongfong/Documents/App/src/listing/templatetags/filters.py",
+		"/Users/kokleongfong/Documents/App/src/static/site.css",
+		"/Users/kokleongfong/Documents/App/src/static/js/site-script.js",
+		"/Users/kokleongfong/Documents/App/src/eventproj/urls.py",
+		"/Users/kokleongfong/Documents/App/src/listing/admin.py",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/image.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/create.html",
+		"/Users/kokleongfong/Documents/App/TO-DO-LIST.html",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings.py",
+		"/Users/kokleongfong/Documents/App/requirements.txt",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/profile.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/views.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/models.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/profile_models.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/forms.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/urls.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/change_email.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/admin.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/notifications.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/preferences.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/list-your-event.html",
+		"/Users/kokleongfong/Documents/App/lib/python3.6/site-packages/django/forms/forms.py",
+		"/Users/kokleongfong/Documents/App/lib/python3.6/site-packages/django/forms/models.py",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/dashboard.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/security.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/home_bar.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/home.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/signin.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/register.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/settings.html",
+		"/Users/kokleongfong/Documents/App/src/listing/migrations/__init__.py",
+		"/Users/kokleongfong/Documents/your-first-pwapp-master/work/scripts/app.js",
+		"/Users/kokleongfong/Documents/App/src/static/js/my_jquery.js",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/test.html",
+		"/Users/kokleongfong/Documents/App/src/static/js/listing.js",
+		"/Users/kokleongfong/Documents/App/lib/python3.6/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js",
+		"/Users/kokleongfong/Documents/App/staticroot/js/listing.js",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/listing.html",
+		"/Users/kokleongfong/Documents/App/src/listing/static_db.py",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/footer_simple.html",
+		"/Users/kokleongfong/Documents/App/staticroot/site.css",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/form.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/login.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/signup.html",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/footer.html",
+		"/Users/kokleongfong/Documents/App/src/accounts/templates/base.html",
+		"/Users/kokleongfong/Documents/App/src/manage.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/base.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/prod.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/wsgi.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/stage.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/dev.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/settings.py",
+		"/Users/kokleongfong/Documents/App/src/eventproj/settings/__init__.py",
+		"/Users/kokleongfong/Documents/App/src/listing/templates/main.html",
+		"/Users/kokleongfong/Documents/App/src/listing/filters.py",
+		"/Users/kokleongfong/Documents/App/old files/list-your-event.html",
+		"/Users/kokleongfong/Documents/App/old files/css/site.css",
+		"/Users/kokleongfong/Documents/App/old files/listing.html",
+		"/Users/kokleongfong/Documents/App/old files/css/site_v1.css",
+		"/Users/kokleongfong/Documents/App/.Python",
+		"/Users/kokleongfong/Documents/App/old files/dashboard.html",
+		"/Users/kokleongfong/Documents/App/lib/python3.6/site-packages/pip/_vendor/html5lib/_inputstream.py",
+		"/Users/kokleongfong/Documents/App/old files/main.html",
+		"/Users/kokleongfong/Documents/App/old files/v1/main.html",
+		"/Users/kokleongfong/Documents/App/static/site.css",
+		"/Users/kokleongfong/Documents/App/main.html",
+		"/Users/kokleongfong/Documents/App/static/js/my_js.js",
+		"/Users/kokleongfong/Documents/App/static/elements.css",
+		"/Users/kokleongfong/Documents/App/login.html",
+		"/Users/kokleongfong/Documents/App/static/style.css",
+		"/Users/kokleongfong/Documents/MyApp/YelpCamp/v3/views/index.ejs",
+		"/Users/kokleongfong/Documents/MyApp/YelpCamp/v3/views/partials/header.ejs",
+		"/Users/kokleongfong/Documents/PythonDev/djmod/src/blog/models.py",
+		"/Users/kokleongfong/Documents/PythonDev/djmod/src/blog/admin.py",
+		"/Users/kokleongfong/Documents/PythonDev/djmod/src/blog/validators.py",
+		"/Users/kokleongfong/Documents/PythonDev/djmod/src/djmod/settings.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/templates/dashboard/bookmodel_detail.html",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/templates/about.html",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/models.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/views.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/forms.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/templates/dashboard/bookmodel_list.html",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/urls.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/admin.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/dashboard/admin.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/settings/local.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/old_settings.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/models.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/settings/production.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/settings/base.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/views.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/forms.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/views.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/templates/home/home.html",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/templates/home/form.html",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/trydjango18/settings.py",
+		"/Users/kokleongfong/Documents/PythonDev/trydjango18/src/newsletter/templates/home.html",
+		"/Users/kokleongfong/Documents/PythonDev/djviews/src/blog/urls.py",
+		"/Users/kokleongfong/Documents/PythonDev/djviews/src/blog/templates/blog/delete-view.html",
+		"/Users/kokleongfong/Documents/PythonDev/djviews/src/blog/templates/blog/list-view.html",
+		"/Users/kokleongfong/Documents/PythonDev/djviews/src/blog/views.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h.",
+			"h",
+			"initEvents",
+			"initChildren",
+			"initEvents",
+			"numOf",
+			"add-image",
+			"add",
+			"console.log",
+			"sequence",
+			"initEvents",
+			"console.log",
+			"delete-image",
+			"remove",
+			"data-id",
+			"'_ifn'",
+			"img_obj",
+			"hide",
+			"inputDocFile0",
+			"inputDocFile9",
+			"btn-upload-img",
+			"#upload-image",
+			"#delete-image",
+			"uploadImage",
+			"url",
+			"label-sty-2",
+			"label-sty-1",
+			"section-row",
+			"listing-form",
+			"models.py",
+			"sign",
+			"zip_code",
+			"initialWeatherForecast",
+			"updateForecastCard",
+			"child",
+			"app.AddDialog",
+			"label-sty-2 label-vt right",
+			"input-wrapper",
+			"input-wrapper left",
+			"label-wrapper left",
+			"label-wrapper",
+			"item 3",
+			"img",
+			"user-action",
+			"form-search",
+			"input.",
+			"btn",
+			"gi-search",
+			"nbu-menu",
+			"gi-search",
+			"form-search",
+			"gi-search-input",
+			"gi-search",
+			"red",
+			"nbu__hide",
+			"navFormSearch",
+			"gi-search-bar",
+			"gi-form",
+			"gi-search-bar",
+			"header",
+			"static",
+			"form",
+			"cover_loc",
+			"ERROR_MSG",
+			"gi-su",
+			"error_msg",
+			"sign in",
+			"log in",
+			"registered",
+			"gi-su",
+			"fieldset",
+			"gi-btm",
+			"gi-content",
+			"content",
+			"gi-footer-btm",
+			"gi-footer-wrapper",
+			"lega",
+			"btn-submit",
+			"btn-signup",
+			"legal",
+			"agreement",
+			"input-sty",
+			"input-sty-3",
+			"label-sty",
+			"password2",
+			"password1",
+			"password",
+			"password1",
+			"border-radius",
+			"gi-su",
+			"gi-container",
+			"logo-container",
+			"main",
+			"content",
+			"img",
+			"MyUser",
+			"date_of_birth",
+			"is_admin",
+			"is_staff",
+			"BASE_DIR",
+			"BASE_RID",
+			"\"\"\"",
+			"privacy",
+			"type",
+			"images/",
+			"img",
+			"conten-row",
+			"gi-container",
+			"hide",
+			"long",
+			"card-title",
+			"card-header",
+			"card",
+			"slider-card",
+			"cur-tab",
+			"box-shadow",
+			"kendrick Fong",
+			"organization",
+			";\n",
+			"f7f7f7",
+			"subrow",
+			"sub-row",
+			"btn-",
+			"sidebar-link",
+			"h4",
+			"hd",
+			"h4",
+			"user-container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"initAllEvents",
+			"\"_ifn\"",
+			"uploadImg",
+			"label-sty-2 label-vt ",
+			"input-wrapper",
+			"label-wrapper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "post/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "post/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "post/templates/delete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "post/templates/listing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "post/templates/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

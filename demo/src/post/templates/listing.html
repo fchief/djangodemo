@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<style type="text/css">
+	span{
+		padding:0 16px;
+	}
+</style>
+{% if not post %}
+	<h1>No post found</h1>
+{% endif %}
+<a href="{% url 'post:post' %}">Create a new post!</a>
+{% for p in post %}
+	<ul>
+		<li><span><a href="{% url 'post:update_post' id=p.post_id %}">{{ p.title}} </a></span><span><a href="{% url 'post:delete' id=p.post_id %}">Delete</a></span></li>
+	</ul>
+
+{% endfor %}
+	
+</body>
+</html>
